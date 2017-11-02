@@ -1,0 +1,13 @@
+{
+	"name": "alexa-tfnsw",
+	"description": "An Alexa skill for TfNSW",
+	"version": "1.0.0",
+	"author": "Brian Lee <lkm1321@gmail.com",
+	"dependencies": {
+		"alexa-sdk": "^1.0.12",
+		"alexa-uncensor": "^1.0.1",
+		"moment-timezone": "^0.5.13",
+		"request": "^2.81.0"
+	},
+	"main": "index"
+}
